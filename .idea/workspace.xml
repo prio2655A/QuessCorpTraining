@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37dbb45c-b88e-442b-bb5b-c90b86407d59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q10_MonthsAndDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q11_PrimeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q12_PrimeBetweenIntervl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q13_SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q14_ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q15_FactorialOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q16_ArmstrongNumberOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q17_PalindromeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q18_PrimeFactorsOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q19_PerfectNumberOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q20_LeapYearOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q21_ArmstrongNumberBetweenIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q22_TableOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q23_TableUptoNnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q24_power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q25_FibonacciTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q26_FibonacciUptoNterms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q27_FactorsOfNumberUsingConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q28_TableUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q29_AlternatePrimeUptoNnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3_ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q4_SumOfFirstAndLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q5_AngleOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q6_Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q7_LargeNoFrom3No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q8_InsurancePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q9_CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29vMrS0VWyiLJODFzM21vlLAMek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Q27_FactorsOfNumberUsingConstructor">
+    <configuration name="Q27_FactorsOfNumberUsingConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q27_FactorsOfNumberUsingConstructor" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q28_TableUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q28_TableUsingRecursion" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q29_AlternatePrimeUptoNnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q29_AlternatePrimeUptoNnumber" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4_SumOfFirstAndLastDigit" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q4_SumOfFirstAndLastDigit" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q6_Salary" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q8_InsurancePolicy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q8_InsurancePolicy" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Q4_SumOfFirstAndLastDigit" />
+      <item itemvalue="Application.Q27_FactorsOfNumberUsingConstructor" />
+      <item itemvalue="Application.Q28_TableUsingRecursion" />
+      <item itemvalue="Application.Q29_AlternatePrimeUptoNnumber" />
+      <item itemvalue="Application.Q6_Salary" />
+      <item itemvalue="Application.Q8_InsurancePolicy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q27_FactorsOfNumberUsingConstructor" />
+        <item itemvalue="Application.Q28_TableUsingRecursion" />
+        <item itemvalue="Application.Q29_AlternatePrimeUptoNnumber" />
+        <item itemvalue="Application.Q6_Salary" />
+        <item itemvalue="Application.Q8_InsurancePolicy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37dbb45c-b88e-442b-bb5b-c90b86407d59" name="Changes" comment="" />
+      <created>1653989310064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653989310064</updated>
+    </task>
+    <servers />
+  </component>
+</project>
