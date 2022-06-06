@@ -1,43 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37dbb45c-b88e-442b-bb5b-c90b86407d59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first.java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q10_MonthsAndDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q11_PrimeOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q12_PrimeBetweenIntervl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q13_SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q14_ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q15_FactorialOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q16_ArmstrongNumberOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q17_PalindromeOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q18_PrimeFactorsOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q19_PerfectNumberOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q20_LeapYearOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q21_ArmstrongNumberBetweenIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q22_TableOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q23_TableUptoNnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q24_power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q25_FibonacciTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q26_FibonacciUptoNterms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q27_FactorsOfNumberUsingConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q28_TableUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q29_AlternatePrimeUptoNnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_SumOfFirstAndLastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5_AngleOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7_LargeNoFrom3No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q8_InsurancePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q9_CommandLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factor.java" afterDir="false" />
+    <list default="true" id="37dbb45c-b88e-442b-bb5b-c90b86407d59" name="Changes" comment="Date-wise folder created.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5_06_06_2022/Q37_ProbableTopperNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5_06_06_2022/Q39_Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q10_MonthsAndDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q10_MonthsAndDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q11_PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q11_PrimeOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q12_PrimeBetweenIntervl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q12_PrimeBetweenIntervl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q13_SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q13_SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q14_ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q14_ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q15_FactorialOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q15_FactorialOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q16_ArmstrongNumberOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q16_ArmstrongNumberOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q17_PalindromeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q17_PalindromeOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q18_PrimeFactorsOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q18_PrimeFactorsOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q19_PerfectNumberOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q19_PerfectNumberOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q20_LeapYearOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q20_LeapYearOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q21_ArmstrongNumberBetweenIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q21_ArmstrongNumberBetweenIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q22_TableOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q22_TableOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q23_TableUptoNnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q23_TableUptoNnumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q24_power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q24_power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q25_FibonacciTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q25_FibonacciTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q26_FibonacciUptoNterms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_01_06_2022_LoopingConstruct/Q26_FibonacciUptoNterms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q27_FactorsOfNumberUsingConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3_02_06_2022_Recursion/Q27_FactorsOfNumberUsingConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q28_TableUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3_02_06_2022_Recursion/Q28_TableUsingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q29_AlternatePrimeUptoNnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3_02_06_2022_Recursion/Q29_AlternatePrimeUptoNnumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q37_ProbableTopperNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3_ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q3_ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4_SumOfFirstAndLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q4_SumOfFirstAndLastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5_AngleOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q5_AngleOfTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q6_Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q6_Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q7_LargeNoFrom3No.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q7_LargeNoFrom3No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q8_InsurancePolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q8_InsurancePolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q9_CommandLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1_31_05_2022/Q9_CommandLine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,67 +65,73 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q27_FactorsOfNumberUsingConstructor">
+  <component name="RunManager" selected="Application.Day1_31_05_2022.Q1">
+    <configuration name="Day1_31_05_2022.Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1_31_05_2022.Q1" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day1_31_05_2022.Q4_SumOfFirstAndLastDigit" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1_31_05_2022.Q4_SumOfFirstAndLastDigit" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day5_06_06_2022.Q37_ProbableTopperNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5_06_06_2022.Q37_ProbableTopperNumbers" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day5_06_06_2022.Q38_MatrixMagicSquareOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5_06_06_2022.Q38_MatrixMagicSquareOrNot" />
+      <module name="first.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q27_FactorsOfNumberUsingConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q27_FactorsOfNumberUsingConstructor" />
+      <option name="MAIN_CLASS_NAME" value="Day3_02_06_2022_Recursion.Q27_FactorsOfNumberUsingConstructor" />
       <module name="first.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q28_TableUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q28_TableUsingRecursion" />
+    <configuration name="Q39_Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5_06_06_2022.Q39_Movie" />
       <module name="first.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q29_AlternatePrimeUptoNnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q29_AlternatePrimeUptoNnumber" />
-      <module name="first.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q4_SumOfFirstAndLastDigit" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q4_SumOfFirstAndLastDigit" />
-      <module name="first.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q6_Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q6_Salary" />
-      <module name="first.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q8_InsurancePolicy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q8_InsurancePolicy" />
-      <module name="first.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day5_06_06_2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q4_SumOfFirstAndLastDigit" />
+      <item itemvalue="Application.Day1_31_05_2022.Q4_SumOfFirstAndLastDigit" />
       <item itemvalue="Application.Q27_FactorsOfNumberUsingConstructor" />
-      <item itemvalue="Application.Q28_TableUsingRecursion" />
-      <item itemvalue="Application.Q29_AlternatePrimeUptoNnumber" />
-      <item itemvalue="Application.Q6_Salary" />
-      <item itemvalue="Application.Q8_InsurancePolicy" />
+      <item itemvalue="Application.Day1_31_05_2022.Q1" />
+      <item itemvalue="Application.Day5_06_06_2022.Q37_ProbableTopperNumbers" />
+      <item itemvalue="Application.Day5_06_06_2022.Q38_MatrixMagicSquareOrNot" />
+      <item itemvalue="Application.Q39_Movie" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q27_FactorsOfNumberUsingConstructor" />
-        <item itemvalue="Application.Q28_TableUsingRecursion" />
-        <item itemvalue="Application.Q29_AlternatePrimeUptoNnumber" />
-        <item itemvalue="Application.Q6_Salary" />
-        <item itemvalue="Application.Q8_InsurancePolicy" />
+        <item itemvalue="Application.Q39_Movie" />
+        <item itemvalue="Application.Day5_06_06_2022.Q38_MatrixMagicSquareOrNot" />
+        <item itemvalue="Application.Day1_31_05_2022.Q1" />
+        <item itemvalue="Application.Day5_06_06_2022.Q37_ProbableTopperNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -141,5 +145,57 @@
       <updated>1653989310064</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="6900e9bf-4845-463f-9c86-07d6542d1631">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/bappaditya/IdeaProjects/first.java/src/Day1_31_05_2022" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Date-wise folder created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Date-wise folder created." />
   </component>
 </project>
