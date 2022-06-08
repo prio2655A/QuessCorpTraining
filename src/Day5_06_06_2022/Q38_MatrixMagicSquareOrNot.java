@@ -26,7 +26,7 @@ public class Q38_MatrixMagicSquareOrNot {
         System.out.print("Enter the number: ");
         int num=scan.nextInt();
         System.out.println("Enter the matrix.");
-        int matrix[][]= new int[2][2];
+        int[][] matrix = new int[2][2];
         for(int row=0; row<num; row++)
             for(int col=0; col<num; col++)
                 matrix[row][col]=scan.nextInt();
