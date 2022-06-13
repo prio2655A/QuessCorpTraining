@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37dbb45c-b88e-442b-bb5b-c90b86407d59" name="Changes" comment="Add Multithreading Demo using Runnable">
-      <change afterPath="$PROJECT_DIR$/src/Day10_10_06_2022_Multithreading/Demo_FileHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day10_10_06_2022_Multithreading/Q47_Building_H2O.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day7_07_06_2022/Q41_Exception2.java" afterDir="false" />
+    <list default="true" id="37dbb45c-b88e-442b-bb5b-c90b86407d59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Day10_MiniProject/RockPaperScissors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day10_10_06_2022_Multithreading/Q47_Building_H2O.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_10_06_2022_Multithreading/Q47_Building_H2O.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q41_Exception2">
+  <component name="RunManager" selected="Application.RockPaperScissors">
     <configuration name="Day1_31_05_2022.Q4_SumOfFirstAndLastDigit" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day1_31_05_2022.Q4_SumOfFirstAndLastDigit" />
       <module name="first.java" />
@@ -52,19 +51,6 @@
     </configuration>
     <configuration name="Demo_FileHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day10_10_06_2022_Multithreading.Demo_FileHandling" />
-      <module name="first.java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day10_10_06_2022_Multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultithreadingUsingRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10_10_06_2022_Multithreading.MultithreadingUsingRunnable" />
       <module name="first.java" />
       <extension name="coverage">
         <pattern>
@@ -115,21 +101,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10_MiniProject.RockPaperScissors" />
+      <module name="first.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day10_MiniProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Day1_31_05_2022.Q4_SumOfFirstAndLastDigit" />
+      <item itemvalue="Application.RockPaperScissors" />
       <item itemvalue="Application.Demo_FileHandling" />
       <item itemvalue="Application.Q41_Exception2" />
-      <item itemvalue="Application.MultithreadingUsingRunnable" />
       <item itemvalue="Application.MultithreadingUsingThreadClass" />
       <item itemvalue="Application.Q47_Building_H2O" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q41_Exception2" />
+        <item itemvalue="Application.RockPaperScissors" />
         <item itemvalue="Application.Demo_FileHandling" />
         <item itemvalue="Application.Q47_Building_H2O" />
+        <item itemvalue="Application.Q41_Exception2" />
         <item itemvalue="Application.MultithreadingUsingThreadClass" />
-        <item itemvalue="Application.MultithreadingUsingRunnable" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654839587879</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add Q41 a Question on Exception Handling">
+      <created>1654948018569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654948018570</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +240,7 @@
     <MESSAGE value="Day08 added" />
     <MESSAGE value="Add Multithreading Demo using Runnable" />
     <MESSAGE value="Add Multithreading Demo using Thread Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Multithreading Demo using Thread Class" />
+    <MESSAGE value="Add Q41 a Question on Exception Handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
